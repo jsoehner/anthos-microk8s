@@ -1,5 +1,7 @@
 ![Anthos Config Management + Cloud Source Repositories + MicroK8s](img/AnthosMicrok8sTitle.png)
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/84499771-fa33-449f-a2ec-020968ea426e.svg)](https://app.soluble.cloud/repos/details/github.com/jsoehner/anthos-microk8s)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/5f6fe051-4d20-4122-ba25-ef9be6bdc180.svg)](https://app.soluble.cloud/repos/details/github.com/jsoehner/anthos-microk8s)  
+
 # Deploying to Microk8s with Anthos Config Management
 
 [Anthos Config Management](https://cloud.google.com/anthos/config-management)  enables you to automate policy and security at scale for your hybrid and multi-cloud Kubernetes deployments.  At a high level, you commit your Kubernetes code to a central Git repository and Anthos Config Management deploys the code to all of the registered clusters.  In short, Anthos Config Management allows you to bring GitOps practices to multi-cloud container management.
